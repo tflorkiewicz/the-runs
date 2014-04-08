@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 68ecd00c09ebbf24680068bac42a1ac9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 320
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: blockercans_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 63
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: blockercans_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
